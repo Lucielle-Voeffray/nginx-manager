@@ -45,7 +45,7 @@ services:
       DB_POSTGRES_PORT: '5432'
       DB_POSTGRES_USER: 'nginxManager'
       DB_POSTGRES_PASSWORD: '' # TODO
-      DB_POSTGRES_NAME: 'nginxManager'
+      DB_POSTGRES_NAME: 'nginx'
       # Uncomment this if IPv6 is not enabled on your host
       # DISABLE_IPV6: 'true'
     volumes:
