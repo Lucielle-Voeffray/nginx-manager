@@ -1,0 +1,9 @@
+{
+  "m.homeserver": {
+    "base_url": "https://chat.lucielle.ch"
+  },
+  "org.matrix.msc2965.authentication": {
+    "issuer": "https://chat.lucielle.ch/",
+    "account": "https://auth.chat.lucielle.ch/account"
+  }
+}
